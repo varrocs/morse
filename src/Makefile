@@ -37,4 +37,4 @@ fftlib:
 
 
 clean:
-	rm *.o test sound-raspi
+	rm *.o test sound-raspi input fft/*.o
